@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd67cba-3e34-43dc-a3c9-90a781b1b9e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2024_spring/lec03/homework3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2024_spring/lec03/homework3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +29,11 @@
     "last_opened_file_path": "C:/Users/jizhe/Desktop/intro_speech_understanding/intro_speech_understanding/2024_spring/lec03"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jizhe\Desktop\intro_speech_understanding\intro_speech_understanding\2024_spring\lec03" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
