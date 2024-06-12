@@ -1,5 +1,4 @@
 
-
 def cancellation(input_list, stop_word):
     '''
     Copy elements one by one from input_list into output_list.
